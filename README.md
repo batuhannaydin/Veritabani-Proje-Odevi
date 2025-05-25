@@ -13,7 +13,7 @@
 
 # PROJE RAPORU
 
-[Raporu görüntülemek için tıklayın](Projify.docx)
+[Raporu görüntülemek için tıklayın](Rapor.pdf)
 
 # PROJE VİDEOSU
 
